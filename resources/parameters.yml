@@ -1,0 +1,13 @@
+alpha: 0.2
+beta:  1.0
+gamma: 1.0
+
+random_move_coefficient: 0.1
+
+fireflies_count: 12
+max_generation:  50
+
+pass_best_to_next_generation: True
+
+visualisation: True
+delay: 2500
